@@ -3,7 +3,7 @@
 Founder & systems architect building AI-powered SaaS products for African markets.
 
 ## What I’m building
-- **Ahiwa** — a 24/7 AI WhatsApp vendor for African sellers  
+- **AHIWA** — a 24/7 AI WhatsApp vendor for African sellers  
 - **GLOBALYS AFRIQUE** — multi-tenant SaaS infrastructure
 - Commission-based models inspired by Visa / Mastercard economics
 
